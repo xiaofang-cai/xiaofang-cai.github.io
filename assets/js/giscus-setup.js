@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "cai2017/Personal-academic-homepage",
+    "data-repo": "xiaofang-cai/xiaofang-cai.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
